@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>password_weak</name>
+   <tag></tag>
+   <elementGuidId>9e523ec8-063e-46c0-a34b-910d5d0b474b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'password-strength-meter' and (text() = 'Password Strength: Weak' or ='Password Strength: Weak')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#password-strength-meter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b89055e8-ca8b-4994-b5cf-69d5813782fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password-strength-meter</value>
+      <webElementGuid>e4a4ecf6-cab3-400a-b3ac-b467919dab5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password-strength-meter</value>
+      <webElementGuid>de5ac79b-e420-4726-84ed-64ebd333c10b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Password Strength:
+Weak
+</value>
+      <webElementGuid>f3505bbc-71ef-4928-b754-986eb41edc53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password-strength-meter&quot;)</value>
+      <webElementGuid>21b04429-93d0-4a1f-bfc0-cfac298494cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='password-strength-meter']</value>
+      <webElementGuid>37b13eff-ab2e-447b-856c-195aded73265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='password-strength-meter-container']/div</value>
+      <webElementGuid>331a7ea3-797d-4b91-bac6-5bcfdf4aab2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[4]</value>
+      <webElementGuid>4a53d868-76f9-4f43-a18f-53f5cee0a63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[6]</value>
+      <webElementGuid>1c874f65-9535-4175-9bd5-89d0a4e15cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>d04e22ef-317b-45f2-9c6e-155b59c8a832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password Strength:']/parent::*</value>
+      <webElementGuid>4989254b-d575-48e2-8a03-2afe3a517549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>7fa82289-e5f4-4578-a663-f3a3405cfcee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'password-strength-meter' and (text() = '
+Password Strength:
+Weak
+' or . = '
+Password Strength:
+Weak
+')]</value>
+      <webElementGuid>da6cf60e-c28b-49aa-a53f-2fa09dc02aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
