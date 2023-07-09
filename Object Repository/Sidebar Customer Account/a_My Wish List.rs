@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Wish List</name>
+   <tag></tag>
+   <elementGuidId>4790f22a-4db2-4415-b8de-29a653b2ea98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-collapsible-nav']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ee89ccc-cddd-42b4-b156-eef8bb6c0a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/wishlist/</value>
+      <webElementGuid>177cfc78-d7a3-400b-93f8-df6e6cb04f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Wish List</value>
+      <webElementGuid>adc6df01-a0bf-428f-86c4-aa507f858a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-collapsible-nav&quot;)/ul[@class=&quot;nav items&quot;]/li[@class=&quot;nav item&quot;]/a[1]</value>
+      <webElementGuid>b6dabc08-9203-46ec-8ae8-8b1d09862844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-collapsible-nav']/ul/li[4]/a</value>
+      <webElementGuid>2a45a8ef-3f12-42cc-bd96-70a6d844a748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'My Wish List')])[3]</value>
+      <webElementGuid>21269a6c-edd2-48f6-9eb2-8b7c7df9c521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Downloadable Products'])[1]/following::a[1]</value>
+      <webElementGuid>5c0ed09c-ae10-4345-82ce-fa256cefbc5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Orders'])[1]/following::a[2]</value>
+      <webElementGuid>7e3c284d-248d-4273-ae8f-e602d21c2baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Book'])[2]/preceding::a[1]</value>
+      <webElementGuid>f6f4927a-7860-46d4-b75e-4ce390c60025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[2]/preceding::a[2]</value>
+      <webElementGuid>e6d8b6b0-d861-42e2-966f-aea6f1425e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/wishlist/')])[3]</value>
+      <webElementGuid>5040e28c-4c75-4782-982c-be8bd8affbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>6761e151-c77a-449f-bf77-cf2d36cf889b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/wishlist/' and (text() = 'My Wish List' or . = 'My Wish List')]</value>
+      <webElementGuid>524c314d-bba5-4e8d-b416-8f3e2dfa1b45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

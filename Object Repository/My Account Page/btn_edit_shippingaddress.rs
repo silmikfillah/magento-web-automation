@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_edit_shippingaddress</name>
+   <tag></tag>
+   <elementGuidId>e20d97e6-0b97-4dcd-a6a9-b8b1f7705314</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[4]/div[2]/div[2]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box.box-shipping-address > div.box-actions > a.action.edit > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1309501-218f-4c9e-ad38-bf0be36fbdc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Address</value>
+      <webElementGuid>8f0456b6-c2fe-4ac1-b00b-ad232e56da48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;block block-dashboard-addresses&quot;]/div[@class=&quot;block-content&quot;]/div[@class=&quot;box box-shipping-address&quot;]/div[@class=&quot;box-actions&quot;]/a[@class=&quot;action edit&quot;]/span[1]</value>
+      <webElementGuid>f1d848df-3b4a-4d0c-8c1d-8de260fea4f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[4]/div[2]/div[2]/div[2]/a/span</value>
+      <webElementGuid>1f0681af-4583-44e7-973e-0bd28b6f8721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have not set a default shipping address.'])[1]/following::span[1]</value>
+      <webElementGuid>1b73b444-3901-4664-9759-fa32a54dbcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Shipping Address'])[1]/following::span[1]</value>
+      <webElementGuid>40543900-df8a-4fa4-ab2a-7b27ad1afc10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[5]/preceding::span[1]</value>
+      <webElementGuid>750937a2-30bc-4b0d-9da2-afb89fa39561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[6]/preceding::span[1]</value>
+      <webElementGuid>f8951b7b-bbdb-4fda-a46c-7f9d9ebebe2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div[2]/a/span</value>
+      <webElementGuid>b7cc1e18-326d-440f-bc8e-49af1c612e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit Address' or . = 'Edit Address')]</value>
+      <webElementGuid>b0b44b81-9ff4-4fd2-bd66-5f83dc4c6b05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Account Information</name>
+   <tag></tag>
+   <elementGuidId>5842421c-6c8c-4506-990f-82e8facae81a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-collapsible-nav']/ul/li[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b38ebf76-31d6-4784-8a9a-29a9e11dc314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/customer/account/edit/</value>
+      <webElementGuid>bb60ac36-40e6-4bd4-96c5-2465978b5c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Information</value>
+      <webElementGuid>068ca1f5-41d2-4e4b-86c0-c15433db77f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-collapsible-nav&quot;)/ul[@class=&quot;nav items&quot;]/li[@class=&quot;nav item&quot;]/a[1]</value>
+      <webElementGuid>53296511-3995-427f-a157-7938010756c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-collapsible-nav']/ul/li[7]/a</value>
+      <webElementGuid>85f9ca2f-e631-4f42-b69c-c90f6015365d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Account Information')]</value>
+      <webElementGuid>92c6b432-4eef-40e5-b423-7b9612a4c169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Book'])[2]/following::a[1]</value>
+      <webElementGuid>84570f5f-d50a-4c8b-8265-2d97939ddcc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wish List'])[3]/following::a[2]</value>
+      <webElementGuid>95220a1c-b384-4efe-9a07-db4bb1aa6a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stored Payment Methods'])[1]/preceding::a[1]</value>
+      <webElementGuid>9dcc83ac-fe66-4aa2-b593-9ca78908ead4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Product Reviews'])[1]/preceding::a[2]</value>
+      <webElementGuid>c687e9c1-ff43-4c30-a418-e690e7c89299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/customer/account/edit/')])[3]</value>
+      <webElementGuid>3ae2060c-1d24-4b4c-a7f6-28ac98de1e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>6da240ee-56bc-4a9c-be84-231a3d79bc67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/customer/account/edit/' and (text() = 'Account Information' or . = 'Account Information')]</value>
+      <webElementGuid>dbd223ed-b40e-4b06-8077-609dd45039d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

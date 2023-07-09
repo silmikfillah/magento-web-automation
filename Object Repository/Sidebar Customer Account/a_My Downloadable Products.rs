@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Downloadable Products</name>
+   <tag></tag>
+   <elementGuidId>98c74102-8533-4b5a-bdff-0249b2dda625</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-collapsible-nav']/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24c413ac-0f39-452d-a959-6e25a6ac84af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/downloadable/customer/products/</value>
+      <webElementGuid>3faf3936-4882-4fb9-b945-e7aadb863b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Downloadable Products</value>
+      <webElementGuid>8787af6b-fb5a-47d5-9dfd-90dea64990a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-collapsible-nav&quot;)/ul[@class=&quot;nav items&quot;]/li[@class=&quot;nav item&quot;]/a[1]</value>
+      <webElementGuid>fa26a3a7-2b14-4299-aa81-c2d8416f7095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-collapsible-nav']/ul/li[3]/a</value>
+      <webElementGuid>c09cec77-8c42-4627-a8d1-fd8ef91d64fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Downloadable Products')]</value>
+      <webElementGuid>f0318c58-a050-4f37-910a-130de06300b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Orders'])[1]/following::a[1]</value>
+      <webElementGuid>866f16cb-a265-4d56-85b0-55b9842a7eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[6]/following::a[2]</value>
+      <webElementGuid>b13e59f3-fa22-432c-9b52-2a14505718a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wish List'])[3]/preceding::a[1]</value>
+      <webElementGuid>c859c052-73cf-4354-9dca-56e94f3a16dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Book'])[2]/preceding::a[2]</value>
+      <webElementGuid>bf9a5acf-4f36-4ddf-aaeb-02c656a1bf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Downloadable Products']/parent::*</value>
+      <webElementGuid>621f3f3a-dfcc-4acc-a893-cc4b8a6a012c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/downloadable/customer/products/')]</value>
+      <webElementGuid>77b13013-820e-4ffb-94b8-37f402635b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/a</value>
+      <webElementGuid>c7cc09e8-bfc7-49f6-90f7-94ed46026b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/downloadable/customer/products/' and (text() = 'My Downloadable Products' or . = 'My Downloadable Products')]</value>
+      <webElementGuid>cfe41242-88de-40a1-bb48-306f097f04ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

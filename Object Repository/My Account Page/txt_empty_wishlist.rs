@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_empty_wishlist</name>
+   <tag></tag>
+   <elementGuidId>b80654a5-d54f-4b8c-aded-ea25fe76eab7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.block-content > div.empty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div[3]/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df3d4ea0-b01f-4f15-89a5-67d6fdd71cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty</value>
+      <webElementGuid>a4cb29af-c31b-4cb2-8603-a5a7090c222e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have no items in your wish list.</value>
+      <webElementGuid>12fbc54b-7ddb-459a-9751-c9106ffce58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;sidebar sidebar-additional&quot;]/div[@class=&quot;block block-wishlist&quot;]/div[@class=&quot;block-content&quot;]/div[@class=&quot;empty&quot;]</value>
+      <webElementGuid>0b4981f4-7056-4ae1-9de2-4573c561952a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div[3]/div[3]/div[2]/div</value>
+      <webElementGuid>d18593b8-0d45-4997-b2cf-38610215e8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Added Items'])[1]/following::div[1]</value>
+      <webElementGuid>90c161ad-d166-4a19-ac0a-b73e3eafa6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wish List'])[4]/following::div[2]</value>
+      <webElementGuid>d0a14481-96e1-4fe6-b322-dcda6507c412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::div[1]</value>
+      <webElementGuid>dfab2665-93e7-4e5e-ad1f-dff39cfe48a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up for Our Newsletter:'])[1]/preceding::div[2]</value>
+      <webElementGuid>2e296659-2985-4d80-aa38-66ec045366f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You have no items in your wish list.']/parent::*</value>
+      <webElementGuid>4de569b6-204c-487d-afea-f4d352433eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[2]/div</value>
+      <webElementGuid>ed7e9dd5-ba52-43a0-aeaa-9b6921d64405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'You have no items in your wish list.' or . = 'You have no items in your wish list.')]</value>
+      <webElementGuid>4addd8ce-d377-461c-9f6e-401e4e23166c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

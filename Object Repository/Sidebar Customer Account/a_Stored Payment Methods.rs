@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Stored Payment Methods</name>
+   <tag></tag>
+   <elementGuidId>16efd8a5-d7e3-4cc7-8dae-935f5b8724ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-collapsible-nav']/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bf7c6130-b81d-4e84-9f32-9823e097ab8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/vault/cards/listaction/</value>
+      <webElementGuid>d096f2d7-8af7-4746-be77-bc18f5b29302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stored Payment Methods</value>
+      <webElementGuid>1704e3fc-85fe-4363-ab25-295fea5f5399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-collapsible-nav&quot;)/ul[@class=&quot;nav items&quot;]/li[@class=&quot;nav item&quot;]/a[1]</value>
+      <webElementGuid>59920397-96e2-40fa-8725-c048f8bddae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-collapsible-nav']/ul/li[8]/a</value>
+      <webElementGuid>a121788c-95b7-4a35-a366-e131b8d8cb1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Stored Payment Methods')]</value>
+      <webElementGuid>d3d0b48c-3dbb-41cb-bbef-6429c3ee5c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[2]/following::a[1]</value>
+      <webElementGuid>3c8716db-3a05-4f38-af8b-899dea9a3d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Book'])[2]/following::a[2]</value>
+      <webElementGuid>afd594cb-00a8-4bcb-a934-3219ad8ec2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Product Reviews'])[1]/preceding::a[1]</value>
+      <webElementGuid>600ba263-9493-44b3-9cc5-70b2caaa78b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter Subscriptions'])[1]/preceding::a[2]</value>
+      <webElementGuid>d1b2151f-f84f-4a49-b628-c5dc19fe28e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stored Payment Methods']/parent::*</value>
+      <webElementGuid>a3e924a4-007d-4191-98e8-1d8d12f46178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/vault/cards/listaction/')]</value>
+      <webElementGuid>f5690b19-2aa6-493a-a41a-094a42e0105e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>f72f2e6a-ddde-40f2-91ba-ff1bdf94ca1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/vault/cards/listaction/' and (text() = 'Stored Payment Methods' or . = 'Stored Payment Methods')]</value>
+      <webElementGuid>282871f4-9ef0-46a9-bfca-ca056ce18d81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

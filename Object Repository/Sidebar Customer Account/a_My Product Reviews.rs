@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Product Reviews</name>
+   <tag></tag>
+   <elementGuidId>b21fb062-c745-4130-b748-ac1816d83832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-collapsible-nav']/ul/li[10]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e665dd5-9717-4e70-b86c-42cb2115ff08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/review/customer/</value>
+      <webElementGuid>2feb4db4-24ae-403b-bd13-72e0c4c24b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Product Reviews</value>
+      <webElementGuid>07f8eacf-4c49-46f3-9369-a51a398e2db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-collapsible-nav&quot;)/ul[@class=&quot;nav items&quot;]/li[@class=&quot;nav item&quot;]/a[1]</value>
+      <webElementGuid>c975fd66-3279-427a-b942-1887fa79d605</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-collapsible-nav']/ul/li[10]/a</value>
+      <webElementGuid>5a377509-736e-426e-a8b9-d7e8f9c4087a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Product Reviews')]</value>
+      <webElementGuid>e3805f65-d5ab-41a5-88b8-edbc44bb8fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stored Payment Methods'])[1]/following::a[1]</value>
+      <webElementGuid>f63372cb-277c-43dd-a427-7b870fc0a885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[2]/following::a[2]</value>
+      <webElementGuid>605733b1-aecc-475c-a6b1-1d4b56e1e876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter Subscriptions'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f5c07ea-1392-449a-8a2f-a64301956c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare Products'])[1]/preceding::a[2]</value>
+      <webElementGuid>d84927a0-ccbb-4c5f-a044-981d3e7f0028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Product Reviews']/parent::*</value>
+      <webElementGuid>ebcb4a73-cb61-4226-a4ab-f9d6ee74eaa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/review/customer/')]</value>
+      <webElementGuid>49052d68-871c-4c2a-a3b2-42acd26bca39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>2959b76f-8a26-4a82-9f77-bc4194f1bb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/review/customer/' and (text() = 'My Product Reviews' or . = 'My Product Reviews')]</value>
+      <webElementGuid>3533d155-90bc-4210-9592-d5af15120f6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
