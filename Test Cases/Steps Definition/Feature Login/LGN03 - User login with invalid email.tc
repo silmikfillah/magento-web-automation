@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>empty, without @, without TLD, invalid domain name</description>
+   <name>LGN03 - User login with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62e81e6f-b565-4a08-ac3d-dcf593a1aaa4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7b7d8e3-bbda-4e20-9013-d97d2b22816f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d820896a-b85e-42f2-a9bc-b53c5b23bbd4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a409947-2d00-458e-b8eb-c53d609cd831</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7b7d8e3-bbda-4e20-9013-d97d2b22816f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d820896a-b85e-42f2-a9bc-b53c5b23bbd4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a409947-2d00-458e-b8eb-c53d609cd831</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

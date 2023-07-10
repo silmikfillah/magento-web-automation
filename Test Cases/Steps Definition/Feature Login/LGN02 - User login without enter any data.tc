@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>email and password ARE EMPTY</description>
+   <name>LGN02 - User login without enter any data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1538ec2-1cd4-4558-b065-b7f47765c660</testCaseGuid>
+</TestCaseEntity>

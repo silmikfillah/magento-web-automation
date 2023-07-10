@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Msg Invalid Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e7a519d-01e1-44a6-9ba4-3f470e1f0d62</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d842dcd-592a-48b3-8e7e-f9b9d6df1a49</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d842dcd-592a-48b3-8e7e-f9b9d6df1a49</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

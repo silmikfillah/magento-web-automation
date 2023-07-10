@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>incorrect password OR incorrect email</description>
+   <name>Read Error Msg Incorrect Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5b24d98-dba1-4894-8ac3-8e392faf6b69</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ccaded8-ee65-4d30-847f-ea736aeafa32</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ccaded8-ee65-4d30-847f-ea736aeafa32</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
