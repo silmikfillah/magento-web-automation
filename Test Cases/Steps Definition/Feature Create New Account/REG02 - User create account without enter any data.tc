@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>all fields ARE EMPTY</description>
+   <name>REG02 - User create account without enter any data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>244c2eff-2632-4610-b021-b0b5aa416e74</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,37 @@
+{
+  "keywordFileContentHash": "9EC06779E0F1021EE87D9F8D5DC80DF4",
+  "keywordClasses": [
+    {
+      "name": "packages.randomName",
+      "keywordMethods": [
+        {
+          "name": "getName",
+          "parameters": [
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "getFirstName",
+          "parameters": []
+        },
+        {
+          "name": "getLastName",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

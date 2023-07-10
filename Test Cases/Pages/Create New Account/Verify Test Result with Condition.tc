@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Test Result with Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ca539c5-08a0-4429-be03-2ef7bd24c7f1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33c3a091-e37c-4096-b59c-19e21ea369d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33c3a091-e37c-4096-b59c-19e21ea369d4</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Success Create Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e40c76a6-4989-4661-8aff-f9f698a03ac8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1d23017-2854-485e-a260-d8e5fc3c3829</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1d23017-2854-485e-a260-d8e5fc3c3829</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
