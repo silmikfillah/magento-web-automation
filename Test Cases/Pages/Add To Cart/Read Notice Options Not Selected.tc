@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Notice Options Not Selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3b32b7c-7af5-4152-bb6f-1712b32ffc6a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8577ce9f-ad02-40ab-baf1-e1a8eb26ee4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8577ce9f-ad02-40ab-baf1-e1a8eb26ee4f</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

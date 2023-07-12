@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Msg Required Size</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>795472c2-7d3f-4735-abc9-72e931501f54</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05436154-f224-4a70-a6a8-cbbd4356feab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05436154-f224-4a70-a6a8-cbbd4356feab</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

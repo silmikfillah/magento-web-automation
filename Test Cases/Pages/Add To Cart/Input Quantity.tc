@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9b67362-5ea3-43a6-862d-eabb1ded207d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d06e3b6-4cd8-46d8-8d27-abd3ecf030fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d06e3b6-4cd8-46d8-8d27-abd3ecf030fd</id>
+      <masked>false</masked>
+      <name>quantity</name>
+   </variable>
+</TestCaseEntity>

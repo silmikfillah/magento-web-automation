@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>without select product color</description>
+   <name>CARTGR03 - Add product to cart with unselected product color</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe20dbae-acb4-40f4-b891-c22d5236ca24</testCaseGuid>
+</TestCaseEntity>

@@ -20,18 +20,21 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         },
         {
           "name": "getFirstName",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getLastName",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

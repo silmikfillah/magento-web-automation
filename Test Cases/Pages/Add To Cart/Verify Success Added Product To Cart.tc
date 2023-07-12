@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Success Added Product To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fe9bc88-bffd-4e0b-90a0-072aeec95e9b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4659fef-aeaf-4684-b577-adacaeceb764</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4659fef-aeaf-4684-b577-adacaeceb764</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

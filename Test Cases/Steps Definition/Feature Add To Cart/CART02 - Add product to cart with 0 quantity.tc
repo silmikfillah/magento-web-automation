@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CART02 - Add product to cart with 0 quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee07fe6c-3a1a-41fa-8e52-49420cb95b3f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A90AB99360740FEAA3B7D39C82F7892C",
+  "keywordClasses": [
+    {
+      "name": "packages.randomProductsCategory",
+      "keywordMethods": [
+        {
+          "name": "getCategory",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

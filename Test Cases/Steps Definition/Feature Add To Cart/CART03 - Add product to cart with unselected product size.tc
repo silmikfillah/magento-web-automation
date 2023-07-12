@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>size is not selected</description>
+   <name>CART03 - Add product to cart with unselected product size</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67ce4191-9940-483a-bb1d-697300ecfec3</testCaseGuid>
+</TestCaseEntity>

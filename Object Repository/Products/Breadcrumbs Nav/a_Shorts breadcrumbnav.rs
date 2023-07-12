@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shorts breadcrumbnav</name>
+   <tag></tag>
+   <elementGuidId>a8a28d61-57bd-43ef-a32e-842adc0ee066</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Shorts')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8897bea-08ee-4ff0-86f9-2ce48738b12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/men/bottoms-men/shorts-men.html</value>
+      <webElementGuid>dd9aa093-9d0e-4d1c-9194-2057abbc6c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shorts</value>
+      <webElementGuid>f6084d2d-b39f-4420-9b85-d74094398576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-product-configurable catalog-product-view product-pierce-gym-short page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;items&quot;]/li[@class=&quot;item category&quot;]/a[1]</value>
+      <webElementGuid>0140e45c-4bc8-4e6c-91f8-c0861a5f2c21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shorts')]</value>
+      <webElementGuid>6111fdea-9ed2-4b07-adb8-b5a43e9ecb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bottoms'])[3]/following::a[1]</value>
+      <webElementGuid>c04d6232-dc4c-4840-893b-e1c8436d479f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men'])[2]/following::a[2]</value>
+      <webElementGuid>6643b374-8e83-4b4a-969b-43af5e7ecd1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pierce Gym Short'])[2]/preceding::a[1]</value>
+      <webElementGuid>edbf67cc-219b-4798-8f63-36a59e9dd7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pierce Gym Short'])[3]/preceding::a[2]</value>
+      <webElementGuid>1db682de-5000-4b89-bdf7-0392f3d6e213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/men/bottoms-men/shorts-men.html')])[2]</value>
+      <webElementGuid>3441a170-cb93-448a-b258-d7f01464190e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>7f896b01-fb3a-4848-889d-45d1032239f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/men/bottoms-men/shorts-men.html' and (text() = 'Shorts' or . = 'Shorts')]</value>
+      <webElementGuid>4329a5a9-ac9a-4f93-8749-1a5ffefa2d32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

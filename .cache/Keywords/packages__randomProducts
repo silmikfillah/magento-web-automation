@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "6C7C2341F110C028ADFA0720E1FAF8DC",
+  "keywordClasses": [
+    {
+      "name": "packages.randomProducts",
+      "keywordMethods": [
+        {
+          "name": "getCategoryHomepage",
+          "parameters": []
+        },
+        {
+          "name": "getCategoryMenuTops",
+          "parameters": []
+        },
+        {
+          "name": "getCategoryMenuBottoms",
+          "parameters": []
+        },
+        {
+          "name": "getCategoryMenuGear",
+          "parameters": []
+        },
+        {
+          "name": "getProductSizeTops",
+          "parameters": []
+        },
+        {
+          "name": "getProductColors",
+          "parameters": []
+        },
+        {
+          "name": "getProductSizeBottoms",
+          "parameters": []
+        },
+        {
+          "name": "getQuantity",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
