@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hyperlinkimg_performance</name>
+   <tag></tag>
+   <elementGuidId>95d8a961-80de-46c8-8f48-b59ea38ca1c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.block-promo.home-performance > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[2]/div/div/a[4]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>950ba0f8-366d-4c6c-97a2-4f38b5af7d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/pub/media/wysiwyg/home/home-performance.jpg</value>
+      <webElementGuid>333a9639-74a5-424f-a0a6-37cd39b9b9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;blocks-promo&quot;]/div[@class=&quot;block-promo-wrapper block-promo-hp&quot;]/a[@class=&quot;block-promo home-performance&quot;]/img[1]</value>
+      <webElementGuid>f5afd61c-7d44-4146-8231-3bd5405a7c52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[2]/div/div/a[4]/img</value>
+      <webElementGuid>3ba41734-41f6-4948-941c-9a4dcd8984c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://magento.softwaretestingboard.com/pub/media/wysiwyg/home/home-performance.jpg')]</value>
+      <webElementGuid>2d43557e-6d0a-482d-aea9-9565151d29a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/img</value>
+      <webElementGuid>c8397fe0-80ea-457f-9a65-818a86c246b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://magento.softwaretestingboard.com/pub/media/wysiwyg/home/home-performance.jpg']</value>
+      <webElementGuid>97615d7b-3be3-4a5a-bdd3-695aef12a591</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

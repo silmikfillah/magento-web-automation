@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reviews</name>
+   <tag></tag>
+   <elementGuidId>0b7d9f92-5bff-4891-9487-1497f29efebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.view > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[(text() = 'Reviews' or . = 'Reviews')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1169ede7-c518-4c03-ae30-0b79b0eaaf59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reviews</value>
+      <webElementGuid>69758b2a-5057-4cdf-8946-2dcbc54df195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;block widget block-products-list grid&quot;]/div[@class=&quot;block-content&quot;]/div[@class=&quot;products-grid grid&quot;]/ol[@class=&quot;product-items widget-product-grid&quot;]/li[@class=&quot;product-item&quot;]/div[@class=&quot;product-item-info&quot;]/div[@class=&quot;product-item-details&quot;]/div[@class=&quot;product-reviews-summary short&quot;]/div[@class=&quot;reviews-actions&quot;]/a[@class=&quot;action view&quot;]/span[1]</value>
+      <webElementGuid>65da349b-3d22-486a-a4b7-a73b91784af1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[2]/div[3]/div/div/ol/li/div/div/div/div[2]/a/span</value>
+      <webElementGuid>4ca480c5-3b3d-4ed3-a508-745bf9dee90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating:'])[1]/following::span[3]</value>
+      <webElementGuid>77398a73-7f36-427d-96de-eb496f749fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Radiant Tee'])[1]/following::span[5]</value>
+      <webElementGuid>a68cace1-c775-49d8-ae6b-46076ad26739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='As low as'])[1]/preceding::span[1]</value>
+      <webElementGuid>5c5b1b20-8134-4013-82c4-4e13f9d4e8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$22.00'])[1]/preceding::span[2]</value>
+      <webElementGuid>d85c5c9f-8189-45e1-a697-184adc386652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reviews']/parent::*</value>
+      <webElementGuid>8172bcb6-9349-4f87-992e-9963060f8648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>cf55ee59-b5c8-4a87-981b-b20be9334222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reviews' or . = 'Reviews')]</value>
+      <webElementGuid>1b1c80dc-ccce-4950-aef5-a976aa7023fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

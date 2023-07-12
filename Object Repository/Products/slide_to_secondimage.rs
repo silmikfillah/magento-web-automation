@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slide_to_secondimage</name>
+   <tag></tag>
+   <elementGuidId>cf2418b0-ab69-4ea1-be55-343b355aea8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fotorama__arr.fotorama__arr--next > div.fotorama__arr__arr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@class = 'fotorama__arr__arr'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6f2bc04-1f1f-44df-81dd-7dd2eb078b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fotorama__arr__arr</value>
+      <webElementGuid>20d89d4e-198a-4d6e-933e-86ace95ad8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;product media&quot;]/div[@class=&quot;gallery-placeholder&quot;]/div[@class=&quot;fotorama-item fotorama fotorama1689012277872&quot;]/div[@class=&quot;fotorama__wrap fotorama__wrap--css3 fotorama__wrap--slide fotorama__wrap--toggle-arrows fotorama__wrap--no-controls&quot;]/div[@class=&quot;fotorama__stage&quot;]/div[@class=&quot;fotorama__arr fotorama__arr--next&quot;]/div[@class=&quot;fotorama__arr__arr&quot;]</value>
+      <webElementGuid>c36f9fee-d9d4-4b7b-b4be-4b540ac3f603</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[2]/div[2]/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>ca862614-2eeb-4231-9fe7-e2da59001566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>0b2f48a6-c9ad-4f85-bca4-4d79190a8629</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_Customer Reviews</name>
+   <tag></tag>
+   <elementGuidId>3c912a26-1f5b-4118-8a46-3880d963510d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#customer-reviews > div.block-title > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer-reviews']/div/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>4cf9d42f-8355-4699-98f4-aa54db3ed5e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Reviews</value>
+      <webElementGuid>b81a5f3e-f5e9-41ed-bf32-1c0712a2c6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer-reviews&quot;)/div[@class=&quot;block-title&quot;]/strong[1]</value>
+      <webElementGuid>cd44b085-8fc1-424d-8fed-d15e11fc5ac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer-reviews']/div/strong</value>
+      <webElementGuid>3d2e19e9-eed3-499c-a2b5-5b6d6779b107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indoor, Warm'])[1]/following::strong[1]</value>
+      <webElementGuid>281eb9ce-2326-4e92-bfd5-b004123b0258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::strong[1]</value>
+      <webElementGuid>b555e39d-db14-4148-be29-4d20699a593e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='per page'])[1]/preceding::strong[2]</value>
+      <webElementGuid>f16cf7bf-727e-4e54-9dd1-d743c6ba7743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer Reviews']/parent::*</value>
+      <webElementGuid>21f17f82-aa12-4b27-b803-d0e50eb451f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/strong</value>
+      <webElementGuid>9bc810e2-f051-4079-bf76-174f63da8e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Customer Reviews' or . = 'Customer Reviews')]</value>
+      <webElementGuid>b3f8fe5d-dadb-45f4-b4f9-f3343a30b14f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

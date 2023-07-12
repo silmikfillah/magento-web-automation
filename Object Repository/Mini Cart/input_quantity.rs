@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_quantity</name>
+   <tag></tag>
+   <elementGuidId>be91c792-069c-4901-93f4-31e5b3c622c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cart-item-244691-qty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type = 'number' and @class = 'item-qty cart-item-qty'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f6787124-4df1-41a2-bb41-6b4c6d094395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {
+                           id: 'cart-item-'+item_id+'-qty',
+                           'data-cart-item': item_id,
+                           'data-item-qty': qty,
+                           'data-cart-item-id': product_sku
+                           }, value: qty</value>
+      <webElementGuid>0e55bc44-49f5-402b-a080-6297e91a0275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>4f26e686-5ed0-4ae2-b212-2c5bddbd798e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>7af6ddf0-5105-459e-bf17-ff2e261921b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-qty cart-item-qty</value>
+      <webElementGuid>ab05b20d-ae51-444a-8b45-9b7aff8fe410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cart-item-244691-qty</value>
+      <webElementGuid>0aa6c475-9c43-488b-a46b-c4feee8a6044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cart-item</name>
+      <type>Main</type>
+      <value>244691</value>
+      <webElementGuid>f2055f2e-31a1-4859-a04b-72b6264f4f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-qty</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f7ef082d-6040-4fe7-9aa2-059f9d05c48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cart-item-id</name>
+      <type>Main</type>
+      <value>WT09-XS-White</value>
+      <webElementGuid>5d90e1f0-a303-4bae-9bc8-82cff82990d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-item-244691-qty&quot;)</value>
+      <webElementGuid>9927a831-84fe-4945-8e50-3d072b32a868</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='cart-item-244691-qty']</value>
+      <webElementGuid>edff0a47-75e7-4cd9-98d2-9830ff56ab4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ol[@id='mini-cart']/li/div/div/div[2]/div[2]/input</value>
+      <webElementGuid>aabf4a56-1b86-49e5-ae7c-8e87ab0030d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>97af50e9-1842-49ac-bc5b-cd2a27c53e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @id = 'cart-item-244691-qty']</value>
+      <webElementGuid>59282f27-e7f6-4956-9de8-9fd5686ee0ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

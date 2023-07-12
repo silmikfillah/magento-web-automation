@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hyperlinkimg_tees</name>
+   <tag></tag>
+   <elementGuidId>2e52ace1-e6c2-42d0-af1b-9b4e13eb9564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.block-promo.home-t-shirts</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[2]/div/div/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ffa5a514-d4fb-4ea0-be2a-ad84949147cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image</value>
+      <webElementGuid>bd924dd2-e59f-468a-8280-a5fed20ddacd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;blocks-promo&quot;]/div[@class=&quot;block-promo-wrapper block-promo-hp&quot;]/a[@class=&quot;block-promo home-t-shirts&quot;]/span[@class=&quot;image&quot;]</value>
+      <webElementGuid>af667e5e-a46e-477f-8802-796ca6f20800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[2]/div/div/a[2]/span</value>
+      <webElementGuid>19aaa016-633c-49c7-ae43-10959f4bac30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Pants'])[1]/following::span[1]</value>
+      <webElementGuid>1f5ac77a-3f0e-4497-80f4-a2a85df7862b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luma pants when you shop today*'])[1]/following::span[2]</value>
+      <webElementGuid>c8eb3246-6cd9-4be9-b265-bcd1b0c0d2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Even more ways to mix and match'])[1]/preceding::span[1]</value>
+      <webElementGuid>bb856ed1-9e93-4db6-bb22-deb1b6c3ead8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy 3 Luma tees get a 4th free'])[1]/preceding::span[1]</value>
+      <webElementGuid>451906bb-1bcb-4eb6-9e1a-1d15c78e449d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>5490ec2c-55fd-42af-ac09-780fc30a2fd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

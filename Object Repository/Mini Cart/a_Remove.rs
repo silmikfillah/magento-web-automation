@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Remove</name>
+   <tag></tag>
+   <elementGuidId>fc64f04a-be69-4929-a9d5-0a211dd617c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@data-bind = concat(&quot;attr: {&quot; , &quot;'&quot; , &quot;data-cart-item&quot; , &quot;'&quot; , &quot;: item_id, title: $t(&quot; , &quot;'&quot; , &quot;Remove item&quot; , &quot;'&quot; , &quot;)}&quot;) and @class = 'action delete' and @title = 'Remove item'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>06fbc938-1a0c-4a4c-af3e-ff6ad0e0ac13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>63a51af1-8082-432f-8b74-146bf2c0bff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {'data-cart-item': item_id, title: $t('Remove item')}</value>
+      <webElementGuid>c4694c30-45b3-46e8-b15c-6706a20c6cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action delete</value>
+      <webElementGuid>abadab19-79f2-4c79-b3b0-9b193a5972ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cart-item</name>
+      <type>Main</type>
+      <value>244682</value>
+      <webElementGuid>0b04736c-82f7-478c-ada1-8fa506274922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove item</value>
+      <webElementGuid>d5edd26a-03b9-4e95-8e1e-ef0696641189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Remove
+                    </value>
+      <webElementGuid>e748149d-2bbb-41e0-b919-ccff8c6f9659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mini-cart&quot;)/li[@class=&quot;item product product-item odd last&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-item-details&quot;]/div[@class=&quot;product actions&quot;]/div[@class=&quot;secondary&quot;]/a[@class=&quot;action delete&quot;]</value>
+      <webElementGuid>6b9de5ac-632a-4bc9-aa3f-2333884abb9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ol[@id='mini-cart']/li/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>427fe74e-9281-40c8-bfdc-664ddbbef664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::a[1]</value>
+      <webElementGuid>1bbc220d-326f-4c6e-8b82-395ef33d34fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::a[2]</value>
+      <webElementGuid>ea23c463-9575-46c0-b72c-2320e1e84196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and Edit Cart'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f1ad6ae-89d9-4668-86cc-79fb3383531c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>b97db527-6799-4d07-b8a3-b06956a0d7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>63236f72-000f-44fa-9492-183b53b0ec32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @title = 'Remove item' and (text() = '
+                        Remove
+                    ' or . = '
+                        Remove
+                    ')]</value>
+      <webElementGuid>c0442f16-816e-4d39-949e-f7a8b165fb7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>a778d8c1-f38d-436e-986a-a9487d826eca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@data-bind = concat(&quot;attr: {href: configure_url, title: $t(&quot; , &quot;'&quot; , &quot;Edit item&quot; , &quot;'&quot; , &quot;)}&quot;) and @class = 'action edit' and @title = 'Edit item'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>215f9695-27d4-4f45-8b4c-28809ff32e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {href: configure_url, title: $t('Edit item')}</value>
+      <webElementGuid>0c17cd52-aa06-4351-9761-5caf593e89f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action edit</value>
+      <webElementGuid>76dff82f-52ef-45fe-82bb-62c9687995c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/checkout/cart/configure/id/244691/product_id/1812/</value>
+      <webElementGuid>6ce695ff-ca7a-46e2-9e8e-d3717a3628cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit item</value>
+      <webElementGuid>882be1c4-300f-4576-9019-6b6861f11f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Edit
+                    </value>
+      <webElementGuid>1eed1dcb-4d55-4a4d-ad47-24f62314adcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mini-cart&quot;)/li[@class=&quot;item product product-item odd last&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-item-details&quot;]/div[@class=&quot;product actions&quot;]/div[@class=&quot;primary&quot;]/a[@class=&quot;action edit&quot;]</value>
+      <webElementGuid>635239c7-51d4-4ecb-bccc-6ea86f6ce2d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ol[@id='mini-cart']/li/div/div/div[3]/div/a</value>
+      <webElementGuid>6ccd15c0-45bc-4745-ab6e-84c988dbfaba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::a[1]</value>
+      <webElementGuid>53f15779-5d41-4056-9938-13302eaef3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::a[1]</value>
+      <webElementGuid>36209a2a-0221-4091-b583-ee39e72b127f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::a[1]</value>
+      <webElementGuid>4bccdd22-fe3e-4f25-b031-712a782056f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/checkout/cart/configure/id/244691/product_id/1812/')]</value>
+      <webElementGuid>ee00b9f1-7847-48ab-9838-af0259525c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>f7bddcf6-0db0-4f95-80fc-92b5d6681866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/checkout/cart/configure/id/244691/product_id/1812/' and @title = 'Edit item' and (text() = '
+                        Edit
+                    ' or . = '
+                        Edit
+                    ')]</value>
+      <webElementGuid>6eb5d09d-bcf5-406e-8247-4427c5ec738e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
