@@ -20,13 +20,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-if (WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Men Tanks'), 'Tanks') == true ||
-	WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Performance Fabrics'), 'Performance Fabrics') == true) {
+title_page = WebUI.getText(findTestObject('Products/Title Product Page/title_product_page'))
+
+if (title_page == 'Tanks' || title_page == 'Performance Fabrics') {
 	if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allcolors')) == true) {
 		if (color == 'selected') {
 			WebUI.click(findTestObject('Products/select_first_color'))
-		} else (color == 'unselected'){
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_first_color'), 'aria-checked' == 'false', 10)
+		} else if (color == 'unselected'){
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_color'), 'aria-checked', 'false', 10)
 		}
 	} else {
 		WebUI.verifyElementNotVisible(findTestObject('Products/options_label_allcolors'))
@@ -36,13 +37,12 @@ if (WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Me
 		if (color == 'selected') {
 			product_colors = CustomKeywords.'packages.randomProducts.getProductColors'()
 			WebUI.click(findTestObject(product_colors))
-		} else (color == 'unselected'){
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_first_color'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_second_color'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_third_color'), 'aria-checked' == 'false', 10)
+		} else if (color == 'unselected'){
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_color'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_color'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_third_color'), 'aria-checked', 'false', 10)
 		}
 	} else {
 		WebUI.verifyElementNotVisible(findTestObject('Products/options_label_allcolors'))
 	}
 }
-

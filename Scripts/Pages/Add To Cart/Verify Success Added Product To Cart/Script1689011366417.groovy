@@ -17,21 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-visible = WebUI.verifyElementPresent(findTestObject('Home Page/successmsg_addtocart'), 20)
-
-if (visible == true) {
+try {
 	WebUI.verifyElementPresent(findTestObject('Home Page/successmsg_addtocart'), 20)
-						
 	success_msg = WebUI.getText(findTestObject('Home Page/successmsg_addtocart'))
-							
 	expected = success_msg
-							
 	WebUI.verifyMatch(success_msg, expected, false)
-} else {
+} catch(Exception e) {
 	WebUI.verifyElementVisible(findTestObject('Products/errormsg_qty is not available'))
-	
 	WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Color'), [:], FailureHandling.STOP_ON_FAILURE)
-	
 	WebUI.callTestCase(findTestCase('Pages/Add To Cart/Click Add To Cart'), [:], FailureHandling.STOP_ON_FAILURE)
 }
-

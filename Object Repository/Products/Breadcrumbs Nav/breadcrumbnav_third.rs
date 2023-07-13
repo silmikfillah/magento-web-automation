@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>breadcrumbnav_third</name>
+   <tag></tag>
+   <elementGuidId>c8ea95ce-a206-48b3-952c-d36680183194</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>085df9db-68c5-4595-a6bb-334ad564eb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/gear/bags.html</value>
+      <webElementGuid>b729e86c-4725-4d77-8615-06fda84bb044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bags</value>
+      <webElementGuid>42f6e79e-a752-4aeb-8493-9eaba1bbd8c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;catalog-product-view product-push-it-messenger-bag page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;items&quot;]/li[@class=&quot;item category&quot;]/a[1]</value>
+      <webElementGuid>b10946dc-86e2-4053-aae8-57558f9042f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bags')]</value>
+      <webElementGuid>2a9c2157-04a2-427f-92e9-ae427d6b6116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gear'])[2]/following::a[1]</value>
+      <webElementGuid>6d8af230-3495-4e0e-bb93-1f09dd62040f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>1c4d77b8-90e0-461b-bd77-9d7338cdb236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Push It Messenger Bag'])[2]/preceding::a[1]</value>
+      <webElementGuid>09d3a6f6-5a0b-49c6-87ad-71c05b3e1ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Push It Messenger Bag'])[3]/preceding::a[2]</value>
+      <webElementGuid>1108e8e9-a8b8-481f-9d9f-7a759d77601e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/gear/bags.html')])[2]</value>
+      <webElementGuid>d677c056-42b3-4fac-94e4-b415f0418f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/a</value>
+      <webElementGuid>5c07409b-c511-44e4-a59d-5d296fc7f66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/gear/bags.html' and (text() = 'Bags' or . = 'Bags')]</value>
+      <webElementGuid>6405be3f-bb32-4d02-bb32-b5b997d4a279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

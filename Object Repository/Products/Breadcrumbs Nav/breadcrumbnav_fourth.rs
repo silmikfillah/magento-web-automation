@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>breadcrumbnav_fourth</name>
+   <tag></tag>
+   <elementGuidId>2fafd85f-3d42-4959-b8ba-5e700f274057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eb508b7f-a80d-40cf-9de7-bc54f240784d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/women/bottoms-women/pants-women.html</value>
+      <webElementGuid>849b8750-775f-4aa4-bc2e-473b1c32630a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pants</value>
+      <webElementGuid>8b7d21c3-65d4-44a9-9194-81c3db8000e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-product-configurable catalog-product-view product-portia-capri page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;items&quot;]/li[@class=&quot;item category&quot;]/a[1]</value>
+      <webElementGuid>08ccfd5c-5784-4ade-95c2-cbe5eee5353c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pants')]</value>
+      <webElementGuid>51620a74-e0a9-46f2-8d3c-28afaffd3721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bottoms'])[3]/following::a[1]</value>
+      <webElementGuid>d8b7c4f3-767c-4f0d-8679-d8f7065fdf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[2]/following::a[2]</value>
+      <webElementGuid>dd7ca269-89ec-423e-b43e-068354bf71f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portia Capri'])[2]/preceding::a[1]</value>
+      <webElementGuid>d6c7c3eb-693a-4dc3-86db-56559c2239dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portia Capri'])[3]/preceding::a[2]</value>
+      <webElementGuid>6e485d12-5056-42d2-9149-272406410471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/women/bottoms-women/pants-women.html')])[2]</value>
+      <webElementGuid>db3ceadd-6d1c-4134-9b68-219e282598f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>9501d3b7-4204-49a5-8a30-6a64054171e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/women/bottoms-women/pants-women.html' and (text() = 'Pants' or . = 'Pants')]</value>
+      <webElementGuid>361f189f-7a10-4dc0-ac99-963a5677413d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

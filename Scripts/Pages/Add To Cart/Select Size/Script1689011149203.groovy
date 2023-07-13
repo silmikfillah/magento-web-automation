@@ -17,17 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-if (WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Pants'), 'Pants') == true || 
-	WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Shorts'), 'Shorts') == true ||
-	WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Eco Friendly'), 'Eco Friendly') == true ||
-	WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_New Luma Yoga Collection'), 'New Luma Yoga Collection') == true) {
+title_page = WebUI.getText(findTestObject('Products/Title Product Page/title_product_page'))
+
+if (title_page == 'Pants' || title_page == 'Shorts' || title_page == 'Eco Friendly' || title_page == 'New Luma Yoga Collection') {
 	if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize')) == true) {
 		if (size == 'selected') {
 			product_sizeB = CustomKeywords.'packages.randomProducts.getProductSizeBottoms'()
 			WebUI.click(findTestObject(product_sizeB))
 		} else if (size == 'unselected'){
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked' == 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
 		}
 	} else {
 		WebUI.verifyElementNotVisible(findTestObject('Products/options_label_allsize'))
@@ -38,11 +37,11 @@ if (WebUI.verifyElementText(findTestObject('Products/Title Product Page/title_Pa
 			product_sizeT = CustomKeywords.'packages.randomProducts.getProductSizeTops'()
 			WebUI.click(findTestObject(product_sizeT))
 		} else if (size == 'unselected'){
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_third_size'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_fourth_size'), 'aria-checked' == 'false', 10)
-			WebUI.verifyElementHasAttribute(findTestObject('Products/List Size and Colors/select_fifth_size'), 'aria-checked' == 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_third_size'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_fourth_size'), 'aria-checked', 'false', 10)
+			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_fifth_size'), 'aria-checked', 'false', 10)
 		}
 	} else {
 		WebUI.verifyElementNotVisible(findTestObject('Products/options_label_allsize'))

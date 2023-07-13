@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Size from Product Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1b9b028-3500-4664-9724-91efef23d1c6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c10edd3-966e-4712-9f27-aae6eb802221</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c10edd3-966e-4712-9f27-aae6eb802221</id>
+      <masked>false</masked>
+      <name>size</name>
+   </variable>
+</TestCaseEntity>

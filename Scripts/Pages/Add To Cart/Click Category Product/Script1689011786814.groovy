@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 Random rand = new Random()
-upperLimit = 2
+upperLimit = 4
 category = rand.nextInt(upperLimit)
 
 switch (category) {
@@ -29,16 +29,16 @@ switch (category) {
 	case 1:
 		category02 = CustomKeywords.'packages.randomProducts.getCategoryMenuTops'()
 		if (category02 == 'Object Repository/Navbar/Menu Product Category/a_Men Hoodies Sweatshirts' ||
-			'Object Repository/Navbar/Menu Product Category/a_Men Jackets' ||
-			'Object Repository/Navbar/Menu Product Category/a_Men Tees' ||
-			'Object Repository/Navbar/Menu Product Category/a_Men Tanks') {
+			category02 == 'Object Repository/Navbar/Menu Product Category/a_Men Jackets' ||
+			category02 == 'Object Repository/Navbar/Menu Product Category/a_Men Tees' ||
+			category02 == 'Object Repository/Navbar/Menu Product Category/a_Men Tanks') {
 			WebUI.mouseOver(findTestObject('Navbar/a_Men'))
 			WebUI.mouseOver(findTestObject('Navbar/a_TopsMen'))
 			WebUI.click(findTestObject(category02))
 		} else if (category02 == 'Object Repository/Navbar/Menu Product Category/a_Women Bras Tanks' ||
-				'Object Repository/Navbar/Menu Product Category/a_Women Hoodies Sweatshirts' ||
-				'Object Repository/Navbar/Menu Product Category/a_Women Jackets' ||
-				'Object Repository/Navbar/Menu Product Category/a_Women Tees') {
+				category02 == 'Object Repository/Navbar/Menu Product Category/a_Women Hoodies Sweatshirts' ||
+				category02 == 'Object Repository/Navbar/Menu Product Category/a_Women Jackets' ||
+				category02 == 'Object Repository/Navbar/Menu Product Category/a_Women Tees') {
 				WebUI.mouseOver(findTestObject('Navbar/a_Women'))
 				WebUI.mouseOver(findTestObject('Navbar/a_TopsWomen'))
 				WebUI.click(findTestObject(category02))
@@ -47,12 +47,12 @@ switch (category) {
 	case 2:
 		category03 = CustomKeywords.'packages.randomProducts.getCategoryMenuBottoms'()
 		if (category03 == 'Object Repository/Navbar/Menu Product Category/a_Men Shorts' ||
-			'Object Repository/Navbar/Menu Product Category/a_Men Pants') {
+			category03 == 'Object Repository/Navbar/Menu Product Category/a_Men Pants') {
 			WebUI.mouseOver(findTestObject('Navbar/a_Men'))
 			WebUI.mouseOver(findTestObject('Navbar/a_BottomsMen'))
 			WebUI.click(findTestObject(category03))
 		} else if (category03 == 'Object Repository/Navbar/Menu Product Category/a_Women Shorts' ||
-				'Object Repository/Navbar/Menu Product Category/a_Women Pants') {
+				category03 == 'Object Repository/Navbar/Menu Product Category/a_Women Pants') {
 				WebUI.mouseOver(findTestObject('Navbar/a_Women'))
 				WebUI.mouseOver(findTestObject('Navbar/a_BottomsWomen'))
 				WebUI.click(findTestObject(category03))

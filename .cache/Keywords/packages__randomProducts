@@ -6,38 +6,46 @@
       "keywordMethods": [
         {
           "name": "getCategoryHomepage",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getCategoryMenuTops",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getCategoryMenuBottoms",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getCategoryMenuGear",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getProductSizeTops",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getProductColors",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getProductSizeBottoms",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getQuantity",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

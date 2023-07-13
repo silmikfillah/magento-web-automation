@@ -25,9 +25,9 @@ WebUI.callTestCase(findTestCase('Pages/Add To Cart/Hover to Product'), [:], Fail
 
 WebUI.callTestCase(findTestCase('Pages/Add To Cart/Click A Product'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Size'), [('size') : 'selected'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Size from Product Page'), [('size') : 'selected'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Color'), [('color') : 'selected'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Color from Product Page'), [('color') : 'selected'], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Pages/Add To Cart/Input Quantity'), [('quantity') : ''], FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Color from Product Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd56008e-ca04-4a6d-a8e9-9c5b65d4fbc9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17c7a2c3-d7d2-46a9-abf6-f98dd792b37e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17c7a2c3-d7d2-46a9-abf6-f98dd792b37e</id>
+      <masked>false</masked>
+      <name>color</name>
+   </variable>
+</TestCaseEntity>
