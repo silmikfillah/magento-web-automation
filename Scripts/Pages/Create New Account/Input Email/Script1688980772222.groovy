@@ -24,6 +24,8 @@ import org.openqa.selenium.Keys as Keys
 if (email == 'random') {
 	Email = CustomKeywords.'packages.randomEmail.getEmailDate'()
 	WebUI.sendKeys(findTestObject('Create New Account Page/input_email'), Email)
+	CustomKeywords.'packages.createGlobalVariables.getGlobalVariable'('email', Email)
+	println GlobalVariable.email
 } else if (email == 'empty') {
 	WebUI.setText(findTestObject('Create New Account Page/input_email'), '')
 } else {
