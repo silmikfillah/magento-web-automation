@@ -17,11 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('Products/required_color'), 0)
-
-color = WebUI.getText(findTestObject('Products/required_color'))
-
-expected = color
-
-WebUI.verifyMatch(color, expected, false)
-
+try {
+	breadcrumbs = WebUI.getText(findTestObject('Products/Breadcrumbs Nav/breadcrumbnav_third'))
+	if (breadcrumbs == 'Watches' || breadcrumbs == 'Bags') {
+		WebUI.verifyElementNotPresent(findTestObject('Products/required_color'), 10)
+	} 
+} catch(Exception e) {
+	WebUI.verifyElementPresent(findTestObject('Products/required_color'), 0)
+	color = WebUI.getText(findTestObject('Products/required_color'))
+	expected = color
+	WebUI.verifyMatch(color, expected, false)
+}

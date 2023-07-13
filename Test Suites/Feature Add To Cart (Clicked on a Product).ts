@@ -39,4 +39,11 @@
       <testCaseId>Test Cases/Steps Definition/Feature Add To Cart/CART04 - Add product to cart with unselected product color</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>3917b385-7bfa-465f-bb44-8102e35ab4e6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Steps Definition/Feature Add To Cart/CART05 - Add product to cart without enter any data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
