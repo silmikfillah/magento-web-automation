@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_first_product_name</name>
+   <tag></tag>
+   <elementGuidId>93e7266e-6d58-4a42-969d-6147718328fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.col.item > div.product-item-details > strong.product-item-name > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='shopping-cart-table']/tbody/tr/td/div/strong/a)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>96fae2f3-22e1-4ff3-b195-1fa3f84d443c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/portia-capri.html</value>
+      <webElementGuid>75c57b52-6d91-4327-b18d-cce46ecb88c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Portia Capri</value>
+      <webElementGuid>d68e5faf-27c6-4b80-b8ec-52b4783b5502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-table&quot;)/tbody[@class=&quot;cart item&quot;]/tr[@class=&quot;item-info&quot;]/td[@class=&quot;col item&quot;]/div[@class=&quot;product-item-details&quot;]/strong[@class=&quot;product-item-name&quot;]/a[1]</value>
+      <webElementGuid>b2a2b486-cf1a-4e4e-8a60-a4b750e67a5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shopping-cart-table']/tbody/tr/td/div/strong/a</value>
+      <webElementGuid>fcfece57-4406-413d-8f65-0fb0b2ef81df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Portia Capri')])[2]</value>
+      <webElementGuid>fe08b532-1120-4cb8-90c7-03cc14a17b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[2]/following::a[2]</value>
+      <webElementGuid>44b6a74b-3f97-4b9c-9f34-20587078061f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[11]/following::a[2]</value>
+      <webElementGuid>64325522-d85b-485f-a2b0-b6c7e95609d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[11]/preceding::a[1]</value>
+      <webElementGuid>641e0def-21e2-4789-97d5-e2fbbec741f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[11]/preceding::a[1]</value>
+      <webElementGuid>c3a5c8c8-54e2-4d15-a44d-e00cbde16154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/portia-capri.html')])[4]</value>
+      <webElementGuid>8eda0f09-c48a-4b6a-9e22-2c6db932c68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/strong/a</value>
+      <webElementGuid>ec7936db-2c9c-4694-9875-48ee4b755afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/portia-capri.html' and (text() = 'Portia Capri' or . = 'Portia Capri')]</value>
+      <webElementGuid>ec6d2cb0-db95-477d-afd2-a60a663c1fdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Flat Rate</name>
+   <tag></tag>
+   <elementGuidId>d04d25e5-cfa6-4a60-ade6-f86a22f39e2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#s_method_flatrate_flatrate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='s_method_flatrate_flatrate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bad78cd6-1431-4671-875a-b4e965667098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>dcee323e-5f94-48a2-b07a-7c9b72fe3b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>a431172c-c66e-4a14-b0fe-2126ae4cbc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>
+                                click: $parents[1].selectShippingMethod,
+                                checked: $parents[1].selectedShippingMethod,
+                                attr: {
+                                        value: carrier_code + '_' + method_code,
+                                        id: 's_method_' + carrier_code + '_' + method_code,
+                                        disabled: false
+                                        }
+                                </value>
+      <webElementGuid>a11ec925-5bfb-4bca-bab8-f04b11b721bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>flatrate_flatrate</value>
+      <webElementGuid>bcc94e13-341b-4ac4-8125-aa76261e2c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>s_method_flatrate_flatrate</value>
+      <webElementGuid>f4b154b6-c1eb-41ad-9d95-6df71c6d9c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ko_unique_8</value>
+      <webElementGuid>45ebe846-61e6-437d-ba21-67c44567dab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s_method_flatrate_flatrate&quot;)</value>
+      <webElementGuid>a726db34-5f18-4727-90f9-8bda1fcaf351</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='s_method_flatrate_flatrate']</value>
+      <webElementGuid>7c2fe121-40d0-4102-9048-f293f4e658e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='co-shipping-method-form']/fieldset/dl/dd[2]/div/input</value>
+      <webElementGuid>f70c3a35-12d2-4442-bca7-27126d9b9767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd[2]/div/input</value>
+      <webElementGuid>e6d8470c-144e-4960-9d84-c5f36f68aca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @id = 's_method_flatrate_flatrate' and @name = 'ko_unique_8']</value>
+      <webElementGuid>41927e5a-1b8a-41df-bce3-581cf2e85fd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

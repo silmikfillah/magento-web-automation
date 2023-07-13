@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PagePrevious</name>
+   <tag></tag>
+   <elementGuidId>a5d06d83-9fe7-4f6d-8032-622fe04cd4de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.previous</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//form[@id='form-validate']/div/div/div/div/ul/li/a)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f00e086c-9787-480f-bb04-3bfbfddc71fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action  previous</value>
+      <webElementGuid>d9f54e36-522c-4ccc-9adf-ea9a6e2e9e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/checkout/cart/index/?p=1</value>
+      <webElementGuid>0cf21053-e3fc-47f7-84a6-8dc792f04473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Previous</value>
+      <webElementGuid>eb25e770-ee91-47e4-9cd9-dd15ed2923d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Page
+Previous
+</value>
+      <webElementGuid>7dbc55a7-95c2-4a9c-b019-5a19739b8e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-validate&quot;)/div[@class=&quot;cart table-wrapper&quot;]/div[@class=&quot;cart-products-toolbar cart-products-toolbar-top toolbar&quot;]/div[@class=&quot;pager&quot;]/div[@class=&quot;pages&quot;]/ul[@class=&quot;items pages-items&quot;]/li[@class=&quot;item pages-item-previous&quot;]/a[@class=&quot;action  previous&quot;]</value>
+      <webElementGuid>a4cedf8b-33d3-4cc2-b4d2-c5dcebf5a3ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-validate']/div/div/div/div/ul/li/a</value>
+      <webElementGuid>a8f00563-87ea-4719-a21b-a05ed29f0825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::a[1]</value>
+      <webElementGuid>b8753f0f-eefd-48d1-b771-ea1a00b7f4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items 21 to 22 of 22 total'])[1]/following::a[1]</value>
+      <webElementGuid>9238a25c-3ac7-4b48-9ab2-f3ea332ceb5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/checkout/cart/index/?p=1')]</value>
+      <webElementGuid>45883c80-d22d-4f6d-a1a3-c149fa906f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/ul/li/a</value>
+      <webElementGuid>a22d6677-bdb6-47d9-bee4-8268477971fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/checkout/cart/index/?p=1' and @title = 'Previous' and (text() = '
+Page
+Previous
+' or . = '
+Page
+Previous
+')]</value>
+      <webElementGuid>906fbca7-8568-4b0f-a909-841029e8ad48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Best Way</name>
+   <tag></tag>
+   <elementGuidId>e6520069-b45e-4ab3-ab0d-1ad741de5e92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#s_method_tablerate_bestway</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='s_method_tablerate_bestway']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e42cfb35-ee86-4755-95a4-cb3d55f802df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>7456755a-6868-47b4-b594-855c4e296c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>91e3dbfc-94f2-4287-b6f9-7bbd2dfa5c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>
+                                click: $parents[1].selectShippingMethod,
+                                checked: $parents[1].selectedShippingMethod,
+                                attr: {
+                                        value: carrier_code + '_' + method_code,
+                                        id: 's_method_' + carrier_code + '_' + method_code,
+                                        disabled: false
+                                        }
+                                </value>
+      <webElementGuid>7352bb3d-6782-4dc2-a562-45d2cd1bffba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>tablerate_bestway</value>
+      <webElementGuid>4db4d009-9397-418f-be7f-86bf05e21489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>s_method_tablerate_bestway</value>
+      <webElementGuid>b17554e8-fb30-4d32-82b5-b9ea828dd084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ko_unique_7</value>
+      <webElementGuid>717727c0-2b2d-439a-8517-230c91f32792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s_method_tablerate_bestway&quot;)</value>
+      <webElementGuid>96c3866d-0a4d-474a-bec3-35c2de78b927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='s_method_tablerate_bestway']</value>
+      <webElementGuid>3def6ca5-befd-4351-a207-c5a8cc49dfa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='co-shipping-method-form']/fieldset/dl/dd/div/input</value>
+      <webElementGuid>12c4abec-aab8-4c49-b09d-0548c3241528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd/div/input</value>
+      <webElementGuid>67c380cf-d122-474b-a19f-6f297b9b2f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @id = 's_method_tablerate_bestway' and @name = 'ko_unique_7']</value>
+      <webElementGuid>12487720-27e5-4b34-89f3-515521cf51ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
