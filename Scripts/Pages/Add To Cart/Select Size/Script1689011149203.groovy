@@ -20,30 +20,26 @@ import org.openqa.selenium.Keys as Keys
 title_page = WebUI.getText(findTestObject('Products/Title Product Page/title_product_page'))
 
 if (title_page == 'Pants' || title_page == 'Shorts' || title_page == 'Eco Friendly' || title_page == 'New Luma Yoga Collection') {
-	if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize')) == true) {
-		if (size == 'selected') {
-			product_sizeB = CustomKeywords.'packages.randomProducts.getProductSizeBottoms'()
-			WebUI.click(findTestObject(product_sizeB))
-		} else if (size == 'unselected'){
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
-		}
-	} else {
-		WebUI.verifyElementNotVisible(findTestObject('Products/options_label_allsize'))
+	WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize'))
+	if (size == 'selected') {
+		product_sizeB = CustomKeywords.'packages.randomProducts.getProductSizeBottoms'()
+		WebUI.click(findTestObject(product_sizeB))
+	} else if (size == 'unselected'){
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
 	}
+} else if (title_page == 'Watches' || title_page == 'Bags') {
+	WebUI.verifyElementNotPresent(findTestObject('Products/options_label_allsize'), 20)
 } else {
-	if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize')) == true) {
-		if (size == 'selected') {
-			product_sizeT = CustomKeywords.'packages.randomProducts.getProductSizeTops'()
-			WebUI.click(findTestObject(product_sizeT))
-		} else if (size == 'unselected'){
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_third_size'), 'aria-checked', 'false', 10)
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_fourth_size'), 'aria-checked', 'false', 10)
-			WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_fifth_size'), 'aria-checked', 'false', 10)
-		}
-	} else {
-		WebUI.verifyElementNotVisible(findTestObject('Products/options_label_allsize'))
+	WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize'))
+	if (size == 'selected') {
+		product_sizeT = CustomKeywords.'packages.randomProducts.getProductSizeTops'()
+		WebUI.click(findTestObject(product_sizeT))
+	} else if (size == 'unselected'){
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_third_size'), 'aria-checked', 'false', 10)
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_fourth_size'), 'aria-checked', 'false', 10)
+		WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_fifth_size'), 'aria-checked', 'false', 10)
 	}
 }
