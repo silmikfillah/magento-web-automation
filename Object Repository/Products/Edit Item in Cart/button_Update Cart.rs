@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update Cart</name>
+   <tag></tag>
+   <elementGuidId>a40fc554-66b1-454e-9fac-d04d9117da5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#product-updatecart-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='product-updatecart-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c6055201-7438-4c17-b10c-08ee7ace2ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8bbf5420-b14c-40d3-8dec-8cd9d245c56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Update Cart</value>
+      <webElementGuid>4845da83-81bb-47c1-9db4-04f6840633ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action primary tocart</value>
+      <webElementGuid>22274c71-e8bc-458c-bc93-111d07d0f30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product-updatecart-button</value>
+      <webElementGuid>442247bf-57b3-41e1-a29b-d25307c7c8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Update Cart
+</value>
+      <webElementGuid>d6c667a6-c197-457a-bf32-9b4785f07aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-updatecart-button&quot;)</value>
+      <webElementGuid>a8517e8f-979b-46bf-8099-e608be561202</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='product-updatecart-button']</value>
+      <webElementGuid>a7873739-53df-42da-945c-4a787c625d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product_addtocart_form']/div[2]/div/fieldset/div[2]/button</value>
+      <webElementGuid>b213196f-d86a-454c-89cd-1584be96a4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[5]/following::button[1]</value>
+      <webElementGuid>e00c37c4-4602-44c6-b0f1-16ebc89346c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[2]/following::button[1]</value>
+      <webElementGuid>f48c58a5-d653-4e95-b33c-b19c4dbe4710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wish List'])[1]/preceding::button[1]</value>
+      <webElementGuid>65edf929-3071-4002-aff1-a8187cb69a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[2]/button</value>
+      <webElementGuid>412f2768-551b-4d8b-ab8e-fcb556b78770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @title = 'Update Cart' and @id = 'product-updatecart-button' and (text() = '
+Update Cart
+' or . = '
+Update Cart
+')]</value>
+      <webElementGuid>3e336074-ae78-4d35-bf38-4429411e1488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

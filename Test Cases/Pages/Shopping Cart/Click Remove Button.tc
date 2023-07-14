@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Remove Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8457dbdf-6dc7-40ca-b797-39c1c3af453c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07c54abb-bb52-45bd-8186-02d67664acc5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07c54abb-bb52-45bd-8186-02d67664acc5</id>
+      <masked>false</masked>
+      <name>btn_remove</name>
+   </variable>
+</TestCaseEntity>

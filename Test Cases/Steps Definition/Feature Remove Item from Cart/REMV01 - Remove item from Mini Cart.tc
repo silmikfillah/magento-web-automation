@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REMV01 - Remove item from Mini Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da32fa83-3e2f-46fa-97de-fdb24818b284</testCaseGuid>
+</TestCaseEntity>
