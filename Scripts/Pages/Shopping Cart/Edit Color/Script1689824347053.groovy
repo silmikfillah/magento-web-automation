@@ -17,16 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Steps Definition/Feature Add To Cart/CART01 - Add product to cart with clicked on a detail product'), 
-    [:], FailureHandling.STOP_ON_FAILURE)
+try {
+	if (color == 'selected') {
+		WebUI.click(findTestObject('Products/selected_color'))
+		WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Color from Product Page'), [('color') : 'selected'], FailureHandling.STOP_ON_FAILURE)
+	} else (color == 'unselected') {
+		WebUI.click(findTestObject('Products/selected_color'))
+		WebUI.callTestCase(findTestCase('Pages/Add To Cart/Select Color from Product Page'), [('color') : 'unselected'], FailureHandling.STOP_ON_FAILURE)
+	}
+} catch(Exception e1) {
+	WebUI.verifyElementNotPresent(findTestObject('Products/options_label_allcolors'), 20)
+}
 
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Click Mini Cart from Header'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Click View and Edit Cart'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Click Remove Button'), [('btn_remove') : 'shopping_cart'], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Verify Order Total Price Updated'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Verify Cart Icon Badges'), [:], FailureHandling.STOP_ON_FAILURE)
 

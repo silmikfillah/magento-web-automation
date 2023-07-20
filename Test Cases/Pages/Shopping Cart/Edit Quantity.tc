@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>492b3a5c-9684-4d5f-8505-cdbb1603bb76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffcb40f8-4038-4b55-8256-dd0073569d87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffcb40f8-4038-4b55-8256-dd0073569d87</id>
+      <masked>false</masked>
+      <name>qty</name>
+   </variable>
+</TestCaseEntity>

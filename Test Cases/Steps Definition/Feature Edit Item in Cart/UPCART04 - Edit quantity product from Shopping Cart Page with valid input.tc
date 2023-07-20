@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UPCART04 - Edit quantity product from Shopping Cart Page with valid input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f983e7f5-f32b-463e-968b-e98ed3d8c3b7</testCaseGuid>
+</TestCaseEntity>

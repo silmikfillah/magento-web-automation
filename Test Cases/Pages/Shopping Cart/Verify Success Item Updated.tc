@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Success Item Updated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c2465fa-cbea-4bc0-bb3b-a5d47cb29cef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5bfdb516-b3b4-494f-8325-1b9e2f1d6b91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5bfdb516-b3b4-494f-8325-1b9e2f1d6b91</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

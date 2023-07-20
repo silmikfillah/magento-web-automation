@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Update Shopping Cart Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>410eb5ee-289d-45f1-86d2-188e06917826</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d027be79-ef75-49b1-83c7-8526a374898e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d027be79-ef75-49b1-83c7-8526a374898e</id>
+      <masked>false</masked>
+      <name>btn_update</name>
+   </variable>
+</TestCaseEntity>

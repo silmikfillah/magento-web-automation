@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Edit Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c6571da-eccd-40e0-9eaf-e51e0f6108e2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfbff3e2-9f31-496d-9c7c-cf785188e4b8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfbff3e2-9f31-496d-9c7c-cf785188e4b8</id>
+      <masked>false</masked>
+      <name>btn_edit</name>
+   </variable>
+</TestCaseEntity>

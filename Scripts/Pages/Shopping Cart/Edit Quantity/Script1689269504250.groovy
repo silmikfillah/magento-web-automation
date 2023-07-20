@@ -17,16 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Steps Definition/Feature Add To Cart/CART01 - Add product to cart with clicked on a detail product'), 
-    [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Click Mini Cart from Header'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Click View and Edit Cart'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Click Remove Button'), [('btn_remove') : 'shopping_cart'], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Verify Order Total Price Updated'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Verify Cart Icon Badges'), [:], FailureHandling.STOP_ON_FAILURE)
-
+if (qty == 'minicart') {
+	WebUI.clearText(findTestObject('Mini Cart/input_quantity'))
+	randomQty01 = CustomKeywords.'packages.randomProducts.getQuantity'()
+	WebUI.sendKeys(findTestObject('Mini Cart/input_quantity'), Keys.chord(Keys.CONTROL, 'a'))
+	WebUI.sendKeys(findTestObject('Mini Cart/input_quantity'), randomQty01)
+} else if (qty == 'shopping_cart') {
+	WebUI.clearText(findTestObject('Shopping Cart/input_Qty first product'))
+	randomQty02 = CustomKeywords.'packages.randomProducts.getQuantity'()
+	//WebUI.sendKeys(findTestObject('Mini Cart/input_quantity'), Keys.chord(Keys.CONTROL, 'a'))
+	WebUI.sendKeys(findTestObject('Shopping Cart/input_Qty first product'), randomQty02)
+} else if (qty == 'products') {
+	WebUI.clearText(findTestObject('Products/input_quantity'))
+	randomQty03 = CustomKeywords.'packages.randomProducts.getQuantity'()
+	WebUI.sendKeys(findTestObject('Products/input_quantity'), randomQty03)
+} else if (qty == 'empty') {
+	WebUI.clearText(findTestObject('Mini Cart/input_quantity'))
+	WebUI.setText(findTestObject('Products/input_quantity'), '0')
+}

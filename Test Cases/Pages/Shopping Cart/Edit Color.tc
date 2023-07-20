@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Color</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>709a3531-a86b-420a-9e6a-166d71abb4b7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5773b77a-ad72-4296-b4da-5f442972186a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5773b77a-ad72-4296-b4da-5f442972186a</id>
+      <masked>false</masked>
+      <name>color</name>
+   </variable>
+</TestCaseEntity>

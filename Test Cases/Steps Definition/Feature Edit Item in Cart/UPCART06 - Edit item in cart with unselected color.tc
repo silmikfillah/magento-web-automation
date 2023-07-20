@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>unselected color</description>
+   <name>UPCART06 - Edit item in cart with unselected color</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eee5914b-f6f0-4da4-8c97-7fec81f98629</testCaseGuid>
+</TestCaseEntity>

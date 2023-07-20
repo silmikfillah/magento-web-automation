@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Size</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4212120-d131-4050-bd18-96048f96270d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd611319-44ad-4582-a4d7-d5b5d55c9a3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd611319-44ad-4582-a4d7-d5b5d55c9a3a</id>
+      <masked>false</masked>
+      <name>size</name>
+   </variable>
+</TestCaseEntity>

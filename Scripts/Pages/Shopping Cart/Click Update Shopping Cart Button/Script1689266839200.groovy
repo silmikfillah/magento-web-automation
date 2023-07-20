@@ -17,16 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Steps Definition/Feature Add To Cart/CART01 - Add product to cart with clicked on a detail product'), 
-    [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Click Mini Cart from Header'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Click View and Edit Cart'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Click Remove Button'), [('btn_remove') : 'shopping_cart'], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Verify Order Total Price Updated'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pages/Shopping Cart/Mini Cart/Verify Cart Icon Badges'), [:], FailureHandling.STOP_ON_FAILURE)
+if (btn_update == 'minicart') {
+	WebUI.click(findTestObject('Mini Cart/button_Update qty in mini cart'))
+} else if (btn_update == 'shopping_cart') {
+	WebUI.click(findTestObject('Shopping Cart/button_Update Shopping Cart'))
+} else if (btn_update == 'products') {
+	WebUI.click(findTestObject('Products/Edit Item in Cart/button_Update Cart'))
+}
 

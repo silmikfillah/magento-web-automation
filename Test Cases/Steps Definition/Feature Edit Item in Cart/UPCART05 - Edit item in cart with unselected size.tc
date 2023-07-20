@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>unselected size</description>
+   <name>UPCART05 - Edit item in cart with unselected size</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>155c2337-3b20-4da4-bcfd-095e292b28fe</testCaseGuid>
+</TestCaseEntity>

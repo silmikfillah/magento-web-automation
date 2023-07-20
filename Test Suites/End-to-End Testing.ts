@@ -39,4 +39,18 @@
       <testCaseId>Test Cases/Steps Definition/Feature Add To Cart/CARTGR01 - Add product to cart from products mini grid in list product page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>3756d633-2ecd-40a6-9b70-ec984f401905</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Steps Definition/Feature Edit Item in Cart/UPCART02 - Edit item from Shopping Cart Page with valid credentials</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bc9bf3f2-fc79-45ba-b9bb-f0078a88d54d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Steps Definition/Feature Remove Item from Cart/REMV02 - Remove item from Shopping Cart Page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

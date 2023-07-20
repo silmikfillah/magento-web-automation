@@ -61,15 +61,17 @@ try {
 		expected = breadcrumbs02
 		
 		if (breadcrumbs02 == expected) {
-			if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize')) == true) {
-				if (size == 'selected') {
-					product_sizeB = CustomKeywords.'packages.randomProducts.getProductSizeBottoms'()
-					WebUI.click(findTestObject(product_sizeB))
-				} else if (size == 'unselected'){
-					WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
-					WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
-				}
-			} else {
+			try {
+				if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allsize')) == true) {
+					if (size == 'selected') {
+						product_sizeB = CustomKeywords.'packages.randomProducts.getProductSizeBottoms'()
+						WebUI.click(findTestObject(product_sizeB))
+					} else if (size == 'unselected'){
+						WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_size'), 'aria-checked', 'false', 10)
+						WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_second_size'), 'aria-checked', 'false', 10)
+					}
+				} 
+			} catch(Exception e3) {
 				WebUI.verifyElementNotPresent(findTestObject('Products/options_label_allsize'), 10)
 			}
 		}

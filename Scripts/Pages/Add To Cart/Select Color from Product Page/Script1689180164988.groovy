@@ -58,13 +58,15 @@ try {
 		expected = breadcrumbs02
 		
 		if (breadcrumbs02 == expected) {
-			if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allcolors')) == true) {
-				if (color == 'selected') {
-					WebUI.click(findTestObject('Products/select_first_color'))
-				} else if (color == 'unselected'){
-					WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_color'), 'aria-checked', 'false', 10)
-				}
-			} else {
+			try {
+				if (WebUI.verifyElementVisible(findTestObject('Products/options_label_allcolors')) == true) {
+					if (color == 'selected') {
+						WebUI.click(findTestObject('Products/select_first_color'))
+					} else if (color == 'unselected'){
+						WebUI.verifyElementAttributeValue(findTestObject('Products/List Size and Colors/select_first_color'), 'aria-checked', 'false', 10)
+					}
+				} 
+			} catch(Exception e3) {
 				WebUI.verifyElementNotPresent(findTestObject('Products/options_label_allcolors'), 10)
 			}
 		}
