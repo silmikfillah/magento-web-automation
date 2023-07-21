@@ -27,5 +27,8 @@ if (status == 'success') {
     WebUI.callTestCase(findTestCase('Pages/Login/Read Error Msg Required Password'), [('expected') : ''], FailureHandling.STOP_ON_FAILURE)
 } else if (status == 'invalid email') {
     WebUI.callTestCase(findTestCase('Pages/Login/Read Error Msg Invalid Email'), [('expected') : ''], FailureHandling.STOP_ON_FAILURE)
+} else if (status == 'required all fields') {
+	WebUI.callTestCase(findTestCase('Pages/Login/Read Error Msg Required Email'), [('expected') : ''], FailureHandling.STOP_ON_FAILURE)
+	WebUI.callTestCase(findTestCase('Pages/Login/Read Error Msg Required Password'), [('expected') : ''], FailureHandling.STOP_ON_FAILURE)
 }
 
