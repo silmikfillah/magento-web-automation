@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>required_phone_number</name>
+   <tag></tag>
+   <elementGuidId>86849fb3-961d-4b16-ae05-9c8fa4371065</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-JDTN75E']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#error-JDTN75E > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27494c40-0ab0-4122-9670-22f65c662797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: element.error</value>
+      <webElementGuid>e9a35aba-8ab5-4e43-a97e-1daae35c6456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a required field.</value>
+      <webElementGuid>a27dad98-0194-4233-8ffc-5b12c3dcfd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-JDTN75E&quot;)/span[1]</value>
+      <webElementGuid>750bf0c6-a944-4cdb-87d3-986fbc520f77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error-JDTN75E']/span</value>
+      <webElementGuid>043ca405-08ad-416d-8bd7-1645d9196ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tooltip'])[1]/following::span[2]</value>
+      <webElementGuid>2cbc2c8e-5fa1-4588-af6a-3f4f12b1f1ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::span[4]</value>
+      <webElementGuid>94ebebc8-7b48-42d6-ab3b-9af8cecb19e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save in address book'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1bc2b23-052a-4198-839f-f108d4c423a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Methods'])[1]/preceding::span[2]</value>
+      <webElementGuid>00f59aff-3f06-4eca-a4d5-7b167b28e9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>8573c878-aa84-497e-9b1b-4394641cd5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'This is a required field.' or . = 'This is a required field.')]</value>
+      <webElementGuid>ca129adc-3039-40a8-82e6-a4c206fc4a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

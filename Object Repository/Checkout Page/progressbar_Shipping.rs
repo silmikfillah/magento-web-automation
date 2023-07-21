@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>progressbar_Shipping</name>
+   <tag></tag>
+   <elementGuidId>f64125be-7eac-438d-816c-12c132c9f4d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout']/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.opc-progress-bar-item._active > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>967d3a0b-fdb9-4db3-981e-66d209a2e276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>i18n: item.title, click: $parent.navigateTo</value>
+      <webElementGuid>01f1f483-c96c-4ce7-a706-2ec150cf4eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping</value>
+      <webElementGuid>474d4ca6-3bb2-4e94-976c-d51ac9980f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout&quot;)/ul[@class=&quot;opc-progress-bar&quot;]/li[@class=&quot;opc-progress-bar-item _active&quot;]/span[1]</value>
+      <webElementGuid>882ed546-114e-4973-ae18-efe178ebc7b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout']/ul/li/span</value>
+      <webElementGuid>1d157e7c-983b-4fe4-94b0-22bb953cfa49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Your Password?'])[1]/following::span[1]</value>
+      <webElementGuid>e3041981-ba7e-4bc8-b3ac-3e311096e7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[3]/following::span[2]</value>
+      <webElementGuid>d5aea1e4-66a1-4cf8-9d83-1543bdd132b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review &amp; Payments'])[1]/preceding::span[1]</value>
+      <webElementGuid>e45c37d3-b7bc-4986-bffe-cd5fe33b73a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated Total'])[1]/preceding::span[2]</value>
+      <webElementGuid>93623d54-75f9-47b8-93eb-a924ff3d3557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipping']/parent::*</value>
+      <webElementGuid>80122411-5a5f-4d92-8154-a8db7971b868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>a3cb19ca-ff48-444e-a352-fc38951f7521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shipping' or . = 'Shipping')]</value>
+      <webElementGuid>3521326a-340f-48ca-89c5-8d34d568ef9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

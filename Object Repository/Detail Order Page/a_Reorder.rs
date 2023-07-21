@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reorder</name>
+   <tag></tag>
+   <elementGuidId>9c9d8bfb-ce09-4d83-ad61-f6e4d1e7cecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.order > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>65c4c29a-9f6f-417d-849b-ff25271e454f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reorder</value>
+      <webElementGuid>866de860-f1a0-49e4-bcd7-edd0321dca22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;page-title-wrapper&quot;]/div[@class=&quot;actions-toolbar order-actions-toolbar&quot;]/div[@class=&quot;actions&quot;]/a[@class=&quot;action order&quot;]/span[1]</value>
+      <webElementGuid>cb9e304d-0695-4252-8945-75102166fd63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div/div[2]/div/a/span</value>
+      <webElementGuid>e354391a-bf65-46b2-9f24-9364528ae00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 21, 2023'])[1]/following::span[1]</value>
+      <webElementGuid>6dacf6e8-23ca-4003-aabf-f42f55f8da22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Date:'])[1]/following::span[2]</value>
+      <webElementGuid>9c50afce-702b-4285-88db-c51a13211732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Order'])[1]/preceding::span[1]</value>
+      <webElementGuid>59a2bccf-74c7-454e-9fd6-143b63950d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items Ordered'])[1]/preceding::span[2]</value>
+      <webElementGuid>ddfa4e6c-ee3b-4e96-bda2-24f4c69a675f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reorder']/parent::*</value>
+      <webElementGuid>ea1c54c8-e1e8-427f-aa72-5a6243e433f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/a/span</value>
+      <webElementGuid>d3b640a6-985e-4612-89eb-405c9def3cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reorder' or . = 'Reorder')]</value>
+      <webElementGuid>5a82b2f3-eae9-4229-9271-5ef4adfdfab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>8500f639-c071-4954-aab0-719400016629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@data-bind = concat(&quot;i18n: &quot; , &quot;'&quot; , &quot;Edit&quot; , &quot;'&quot;) and (text() = 'Edit' or . = 'Edit')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.shipping-address-item.selected-item > button.action.edit-address-link > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dbaabe16-00c1-4104-a722-9bf3ce8f5b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>i18n: 'Edit'</value>
+      <webElementGuid>a06383c6-0cf6-4335-b699-6bc0f2267edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>de08607d-fd1e-4928-9f7b-2a34fd583f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-step-shipping&quot;)/div[@class=&quot;field addresses&quot;]/div[@class=&quot;control&quot;]/div[@class=&quot;shipping-address-items&quot;]/div[@class=&quot;shipping-address-item selected-item&quot;]/button[@class=&quot;action edit-address-link&quot;]/span[1]</value>
+      <webElementGuid>b92ac683-8be4-419e-8805-82b049921b32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-step-shipping']/div/div/div/div[2]/button/span</value>
+      <webElementGuid>afbf347c-ac5f-49d0-bfc0-ca16ab6a1cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='East Java'])[1]/following::span[1]</value>
+      <webElementGuid>7c056a8c-0f45-45cc-8c29-a1d68a2b6a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Address'])[1]/preceding::span[1]</value>
+      <webElementGuid>44855efb-8444-4728-99af-560282fa2866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Methods'])[1]/preceding::span[2]</value>
+      <webElementGuid>1926c70c-1355-4d59-aad4-0aec639ac7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/div/div/div/div[2]/button/span</value>
+      <webElementGuid>d9973f3b-d7fe-474c-9b1f-579b6b3359a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>a963cd98-1bf2-4ba2-8f28-ed0d9e17a310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>required_lastname</name>
+   <tag></tag>
+   <elementGuidId>0c68633f-7ee1-4691-a7ba-d2c02e8adcc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-W5TL67O']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#error-W5TL67O > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ae87ce1-02a2-44f0-bb49-933f8885f30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: element.error</value>
+      <webElementGuid>80bbff7d-5e67-4eed-b974-6f46da360374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a required field.</value>
+      <webElementGuid>708b6434-1163-4064-9679-aaff8de3ea9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-W5TL67O&quot;)/span[1]</value>
+      <webElementGuid>c1719284-53f5-4472-bdc8-48c90ae83933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error-W5TL67O']/span</value>
+      <webElementGuid>b23f30b6-addc-474c-b22c-c192c1530d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::span[1]</value>
+      <webElementGuid>8b5682f3-81c2-4a44-a865-434db659aadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a required field.'])[1]/following::span[2]</value>
+      <webElementGuid>f1b21d98-84e9-4d29-8aea-255f75c0bd63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::span[1]</value>
+      <webElementGuid>22c5dd37-dc81-4ea9-bf9f-24fd5f2b1bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street Address'])[1]/preceding::span[2]</value>
+      <webElementGuid>941f3a3f-c30d-4637-8db9-2001a816264c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div/span</value>
+      <webElementGuid>8e06fd4d-8adb-4e2a-8a93-8770fd1ca9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'This is a required field.' or . = 'This is a required field.')]</value>
+      <webElementGuid>72202a99-0ea9-458b-bbfc-db09174dc275</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

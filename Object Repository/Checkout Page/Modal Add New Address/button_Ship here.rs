@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ship here</name>
+   <tag></tag>
+   <elementGuidId>e3925a78-f7a3-43ee-b263-adf95b20e8a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.action.primary.action-save-address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b1938aa-7504-4f87-934c-5e9d09f471a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action primary action-save-address</value>
+      <webElementGuid>766b63e9-cce5-4f1c-babd-3728181e31bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>abfaf85b-63b5-4e59-9ebf-5b6c8d1eeda0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-role</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>8b5e1d25-3a02-497e-a9ed-b36aab67c507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ship here</value>
+      <webElementGuid>e6144343-d0fc-450f-a2ee-5122c933a9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;checkout-index-index page-layout-checkout _has-modal&quot;]/div[@class=&quot;modals-wrapper&quot;]/aside[@class=&quot;modal-popup                 modal-slide                _inner-scroll _show&quot;]/div[@class=&quot;modal-inner-wrap&quot;]/footer[@class=&quot;modal-footer&quot;]/button[@class=&quot;action primary action-save-address&quot;]</value>
+      <webElementGuid>1cc18f52-1c15-4fc5-a299-b74626353671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>9f94ddc8-d7b6-44b4-b1d1-0da1b13fbec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save in address book'])[1]/following::button[1]</value>
+      <webElementGuid>c41ac0f2-6349-4042-b397-e19466c82fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tooltip'])[1]/following::button[1]</value>
+      <webElementGuid>3c126f38-bdb4-4b1e-b73d-2a5aab4bbdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>252ecf71-4bdf-4c8a-8c08-170f7d84c42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/button</value>
+      <webElementGuid>a13e7b45-9d72-4046-aa98-037b912daf55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Ship here' or . = 'Ship here')]</value>
+      <webElementGuid>144a1400-a34e-4e2d-939a-b939bebd1919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
