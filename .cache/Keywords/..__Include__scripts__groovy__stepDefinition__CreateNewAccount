@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3B2B65D6512DF13F0CA443486E5E001B",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.CreateNewAccount",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

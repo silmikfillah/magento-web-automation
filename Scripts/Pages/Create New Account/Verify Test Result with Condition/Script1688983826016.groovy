@@ -22,6 +22,8 @@ if (status == 'success') {
 } else if (status == 'invalid email') {
     WebUI.callTestCase(findTestCase('Pages/Create New Account/Read Error Message/Read Error Msg Invalid Email'), [('expected') : ''], 
         FailureHandling.STOP_ON_FAILURE)
+} else if (status == 'registered email') {
+	WebUI.callTestCase(findTestCase('Pages/Create New Account/Read Error Message/Read Error Msg Registered Email'), [('expected') : ''], FailureHandling.STOP_ON_FAILURE)
 } else if (status == 'password criteria') {
     WebUI.callTestCase(findTestCase('Pages/Create New Account/Read Error Message/Verify Password Minimum 3 Classes Criteria'), 
         [('expected') : ''], FailureHandling.STOP_ON_FAILURE)
