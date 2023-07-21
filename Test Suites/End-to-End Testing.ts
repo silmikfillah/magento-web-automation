@@ -53,4 +53,11 @@
       <testCaseId>Test Cases/Steps Definition/Feature Remove Item from Cart/REMV02 - Remove item from Shopping Cart Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>2d80ec1d-1882-4ee9-97ac-bbf1ab9fc836</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Steps Definition/Feature Logout/LGT01 - Verify to logout from the website</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

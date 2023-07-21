@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LGT01 - Verify to logout from the website</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d98e701f-a511-412c-a765-6209957a72ca</testCaseGuid>
+</TestCaseEntity>
