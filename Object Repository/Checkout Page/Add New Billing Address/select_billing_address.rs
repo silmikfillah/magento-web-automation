@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_billing_address</name>
+   <tag></tag>
+   <elementGuidId>6e8d3bef-8bc7-4cab-8663-4775c8568216</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='billing_address_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;billing_address_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dade8a4b-7624-4826-b90e-2624ab927bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>02fc1ab8-e5ff-4a65-873b-cc2f9899a83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>billing_address_id</value>
+      <webElementGuid>e6b97c52-470f-43b3-9986-b583aee354ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>
+        options: addressOptions,
+        optionsText: addressOptionsText,
+        value: selectedAddress,
+        event: {change: onAddressChange(selectedAddress())};
+    </value>
+      <webElementGuid>18d9d294-b156-4e74-8bb9-dc7d2cdfae52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silmi Khashaish Fillah, Baker St. 325, Los Angeles, California 12345, United StatesSilmi Khashaish Fillah, Sidosermo St. 123, Surabaya, East Java 12345, IndonesiaSilmi Khashaish Fillah, Queen St. 456, Florida, Florida 12345, United StatesNew Address</value>
+      <webElementGuid>09ff6aeb-ba27-4e28-b95e-d9071d66f820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-payment-method-load&quot;)/div[@class=&quot;items payment-methods&quot;]/div[@class=&quot;payment-group&quot;]/div[@class=&quot;payment-method _active&quot;]/div[@class=&quot;payment-method-content&quot;]/div[@class=&quot;payment-method-billing-address&quot;]/div[@class=&quot;checkout-billing-address&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;field field-select-billing&quot;]/div[@class=&quot;control&quot;]/select[@class=&quot;select&quot;]</value>
+      <webElementGuid>114cce3a-74b8-40bb-94c3-acec3a71de63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='billing_address_id']</value>
+      <webElementGuid>b20d0317-87cf-4ad1-a02b-b485afd454d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-payment-method-load']/div/div/div[2]/div[2]/div[2]/div/fieldset/div/div/select</value>
+      <webElementGuid>5de9e06c-b1a4-4760-b107-c746de45c81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Address'])[1]/following::select[1]</value>
+      <webElementGuid>c6cff7d3-5411-468b-87e9-f3eaefd569fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My billing and shipping address are the same'])[1]/following::select[1]</value>
+      <webElementGuid>fa60aef7-66c4-4c40-8cf4-d88cf0b24c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[2]/preceding::select[1]</value>
+      <webElementGuid>a6805000-f86f-489a-8586-4e349731a73f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[2]/preceding::select[1]</value>
+      <webElementGuid>b632f24a-9dd0-4ae0-931c-515f82f744ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/select</value>
+      <webElementGuid>395dd9c0-c067-4bd3-b6a4-a35160ae341c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'billing_address_id' and (text() = 'Silmi Khashaish Fillah, Baker St. 325, Los Angeles, California 12345, United StatesSilmi Khashaish Fillah, Sidosermo St. 123, Surabaya, East Java 12345, IndonesiaSilmi Khashaish Fillah, Queen St. 456, Florida, Florida 12345, United StatesNew Address' or . = 'Silmi Khashaish Fillah, Baker St. 325, Los Angeles, California 12345, United StatesSilmi Khashaish Fillah, Sidosermo St. 123, Surabaya, East Java 12345, IndonesiaSilmi Khashaish Fillah, Queen St. 456, Florida, Florida 12345, United StatesNew Address')]</value>
+      <webElementGuid>432c1e72-f185-450e-8fa1-01c24d4acbf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

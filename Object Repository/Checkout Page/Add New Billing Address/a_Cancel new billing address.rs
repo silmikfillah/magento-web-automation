@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cancel new billing address</name>
+   <tag></tag>
+   <elementGuidId>aefc8998-f034-4757-b16a-e1203c24b670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-payment-method-load']/div/div/div[2]/div[2]/div[2]/div/fieldset/div[3]/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.action.action-cancel > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b71515ad-45ba-4f9c-99a2-2682df50be5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>i18n: 'Cancel'</value>
+      <webElementGuid>958db5d3-5d91-48e6-84ad-a7957f141e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>b2a2b6f6-2500-4bc5-99da-c564dea990d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-payment-method-load&quot;)/div[@class=&quot;items payment-methods&quot;]/div[@class=&quot;payment-group&quot;]/div[@class=&quot;payment-method _active&quot;]/div[@class=&quot;payment-method-content&quot;]/div[@class=&quot;payment-method-billing-address&quot;]/div[@class=&quot;checkout-billing-address&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;actions-toolbar&quot;]/div[@class=&quot;primary&quot;]/button[@class=&quot;action action-cancel&quot;]/span[1]</value>
+      <webElementGuid>e2f2e8bd-1d4c-427d-add8-476ea6761324</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-payment-method-load']/div/div/div[2]/div[2]/div[2]/div/fieldset/div[3]/div/button[2]/span</value>
+      <webElementGuid>d00862e0-ce3b-4ef5-a41f-2286950e8faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::span[1]</value>
+      <webElementGuid>2944ef14-3755-41da-8462-96e97eee92f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save in address book'])[2]/following::span[2]</value>
+      <webElementGuid>2cd2357a-23f2-48cd-a8a5-b196c877a499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place Order'])[1]/preceding::span[1]</value>
+      <webElementGuid>a20de9f1-36c9-4cda-aac6-69180d472301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Payment method available.'])[1]/preceding::span[2]</value>
+      <webElementGuid>2b1ab12a-4991-4c42-9f6f-f6cb49e60796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>4e508aea-7aa1-4011-9902-fe723987734d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]/span</value>
+      <webElementGuid>7b0d22c7-ba7c-40f0-9202-78717ba9332a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>c4f4d854-ba60-4f8c-a7fc-b9dad1064f4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update billing address</name>
+   <tag></tag>
+   <elementGuidId>da938071-5734-4471-8f77-b32686e03126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.action.action-update</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2643e9bc-63d3-4540-a2a5-c79ef43b235e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action action-update</value>
+      <webElementGuid>f6d583c2-e2c3-4541-8bb1-a392402219b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9c910d8-d862-4a6d-a65f-1296e50c83bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: updateAddress</value>
+      <webElementGuid>ef86f8a2-a56d-4b5f-879a-e4706f1b42eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Update
+        </value>
+      <webElementGuid>78fa8cb3-3d84-420f-8535-239e4f759189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-payment-method-load&quot;)/div[@class=&quot;items payment-methods&quot;]/div[@class=&quot;payment-group&quot;]/div[@class=&quot;payment-method _active&quot;]/div[@class=&quot;payment-method-content&quot;]/div[@class=&quot;payment-method-billing-address&quot;]/div[@class=&quot;checkout-billing-address&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;actions-toolbar&quot;]/div[@class=&quot;primary&quot;]/button[@class=&quot;action action-update&quot;]</value>
+      <webElementGuid>c72c7eef-9bbe-4783-9eec-d002f7ac599a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>9dcd6d3c-d400-4dcb-ad1d-527105ba9321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-payment-method-load']/div/div/div[2]/div[2]/div[2]/div/fieldset/div[3]/div/button</value>
+      <webElementGuid>3ae6c659-c21b-46ed-a320-ba0423c4c74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save in address book'])[2]/following::button[1]</value>
+      <webElementGuid>a4df08ce-e91a-432c-aed7-1d101d863fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tooltip'])[2]/following::button[1]</value>
+      <webElementGuid>377eacd3-fd6a-4307-8a1c-182d95142289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>94b04e19-aaf8-40b7-ba65-e6f80ccaea5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[3]/div/button</value>
+      <webElementGuid>aa72b4c9-0851-412d-af42-d906c753250e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+            Update
+        ' or . = '
+            Update
+        ')]</value>
+      <webElementGuid>2aaaac6e-df79-401a-99e0-40579f327642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
