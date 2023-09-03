@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Country</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45a8e111-c425-4635-8d0c-860beddccfc9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b50dd7b9-6953-4915-8310-d6e158751ed0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b50dd7b9-6953-4915-8310-d6e158751ed0</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

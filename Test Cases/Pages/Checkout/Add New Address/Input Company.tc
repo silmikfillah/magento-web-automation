@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0315613f-36a9-4178-a1ca-84adc49bced1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>49a2463b-1e1c-44c6-96dd-861394ef1245</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49a2463b-1e1c-44c6-96dd-861394ef1245</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+</TestCaseEntity>

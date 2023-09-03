@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Street Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbd955b7-e3cb-4445-8f3e-225fdb2ed063</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12b25544-7e12-48d6-b7c6-1ed58ea8d0ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12b25544-7e12-48d6-b7c6-1ed58ea8d0ae</id>
+      <masked>false</masked>
+      <name>street</name>
+   </variable>
+</TestCaseEntity>

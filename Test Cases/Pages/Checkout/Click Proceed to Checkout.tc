@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Proceed to Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9aeeee9-e7cf-4139-9b8d-28b21d1aaa51</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32bb02fb-7a58-476c-8f05-605b89290e46</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32bb02fb-7a58-476c-8f05-605b89290e46</id>
+      <masked>false</masked>
+      <name>btn_checkout</name>
+   </variable>
+</TestCaseEntity>

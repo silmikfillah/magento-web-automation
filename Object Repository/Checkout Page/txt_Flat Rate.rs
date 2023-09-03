@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Flat Rate</name>
+   <tag></tag>
+   <elementGuidId>b2601adc-4a47-4d2d-b132-b86e3bb49e80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='label_carrier_flatrate_flatrate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label_carrier_flatrate_flatrate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6b20a11c-36b2-472f-93c5-701bf9beec09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col col-carrier</value>
+      <webElementGuid>29de13ac-adc6-41e9-851b-b499ffc7b129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {'id': 'label_carrier_' + method.method_code + '_' + method.carrier_code}, text: method.carrier_title</value>
+      <webElementGuid>0adbd96e-488d-40fa-8a29-3ac7e0948554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label_carrier_flatrate_flatrate</value>
+      <webElementGuid>ac1f7908-5667-4c98-853f-eef7c8c2e994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flat Rate</value>
+      <webElementGuid>cf0b868a-9a36-405f-b14f-8d82408791eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label_carrier_flatrate_flatrate&quot;)</value>
+      <webElementGuid>1ddad6fa-769e-488f-a2be-00f779679164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='label_carrier_flatrate_flatrate']</value>
+      <webElementGuid>069856e3-d8e8-4757-9225-324ed9c63059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-shipping-method-load']/table/tbody/tr/td[4]</value>
+      <webElementGuid>419e3209-9351-4366-ab02-1625b3b8ccdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed'])[1]/following::td[1]</value>
+      <webElementGuid>73c42e99-6a89-4089-b2aa-3a7aaffe9161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$5.00'])[1]/following::td[2]</value>
+      <webElementGuid>7f61c0f9-ecbc-438f-b1a8-e0ef4430daeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::td[1]</value>
+      <webElementGuid>6fc438de-8e6d-4515-b692-460a894f5bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Information'])[1]/preceding::td[1]</value>
+      <webElementGuid>f1d74e41-8bc3-4eae-a268-3f8c2a985554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flat Rate']/parent::*</value>
+      <webElementGuid>74351937-c376-482e-a4f1-b25f38fa11cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>554e8734-6e38-4e6a-a1d9-1ff11e61608e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'label_carrier_flatrate_flatrate' and (text() = 'Flat Rate' or . = 'Flat Rate')]</value>
+      <webElementGuid>1caeaf8b-d77d-4826-b43b-fa717c9c6a9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

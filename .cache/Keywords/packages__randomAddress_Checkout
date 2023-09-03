@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "50B595C713D437E2B758DBFE97D0AD0B",
+  "keywordClasses": [
+    {
+      "name": "packages.randomAddress_Checkout",
+      "keywordMethods": [
+        {
+          "name": "getAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getShippingMethod",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

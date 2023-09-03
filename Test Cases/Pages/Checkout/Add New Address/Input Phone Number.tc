@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be9f10e7-bc52-44d0-b3f7-157d5cf5cc36</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a76283b3-4c36-4f7d-8d3a-265172b05444</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a76283b3-4c36-4f7d-8d3a-265172b05444</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+</TestCaseEntity>
